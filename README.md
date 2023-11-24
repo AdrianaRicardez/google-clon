@@ -1,7 +1,5 @@
 # PÁGINA CLON DE GOOGLE
-##Descripcion
-Hello c: This is my first project a **google** clon interface using visual studio code UuU
-
+## Descripcion
 En este proyecto utilicé el editor de código **visual Studio Code** y los lenguajes **HTML y CSS**
 
 ### Elementos del proyecto
